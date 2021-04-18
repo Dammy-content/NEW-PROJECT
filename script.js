@@ -1,1 +1,5 @@
-alert('This works perfectly');
+
+
+setTimeout(() => {
+    alert('This works perfectly');
+}, 5000)
